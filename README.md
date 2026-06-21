@@ -180,12 +180,6 @@ diff <(./pipex infile "grep a" "wc -w" outfile && cat outfile) \
 
 ## 👤 Author
 
-| Name | GitHub |
-|------|--------|
-| Your Name | [@Maxou911](https://github.com/Maxou911) |
-
----
-
-## 📝 License
-
-This project is part of the 42 School curriculum and is for educational purposes only.
+| GitHub |
+|--------|
+| [@maxalwis](https://github.com/maxalwis) |
